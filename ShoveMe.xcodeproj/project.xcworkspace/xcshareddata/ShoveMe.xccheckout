@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82541D4B-5D64-4AB0-BC8E-910C2BE353FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShoveMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE95A7EBCCEAD62EF8FDD90AFDDFBCAC69CDE3AA</key>
+		<string>https://github.com/omer921/ShoveMe</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShoveMe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE95A7EBCCEAD62EF8FDD90AFDDFBCAC69CDE3AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/omer921/ShoveMe</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE95A7EBCCEAD62EF8FDD90AFDDFBCAC69CDE3AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE95A7EBCCEAD62EF8FDD90AFDDFBCAC69CDE3AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShoveMe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
