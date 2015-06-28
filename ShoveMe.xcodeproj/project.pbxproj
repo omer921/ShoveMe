@@ -13,6 +13,7 @@
 		1717A94A1B40216B008AAB15 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1717A9491B40216B008AAB15 /* Images.xcassets */; };
 		1717A94D1B40216B008AAB15 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1717A94B1B40216B008AAB15 /* LaunchScreen.xib */; };
 		1717A9591B40216B008AAB15 /* ShoveMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1717A9581B40216B008AAB15 /* ShoveMeTests.swift */; };
+		1717A9631B402174008AAB15 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1717A9621B402174008AAB15 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1717A9521B40216B008AAB15 /* ShoveMeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShoveMeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1717A9571B40216B008AAB15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1717A9581B40216B008AAB15 /* ShoveMeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoveMeTests.swift; sourceTree = "<group>"; };
+		1717A9621B402174008AAB15 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		1717A9401B40216B008AAB15 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1717A9621B402174008AAB15 /* AlbertEinsteinStamp.jpg */,
 				1717A9411B40216B008AAB15 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1717A9631B402174008AAB15 /* AlbertEinsteinStamp.jpg in Resources */,
 				1717A9481B40216B008AAB15 /* Main.storyboard in Resources */,
 				1717A94D1B40216B008AAB15 /* LaunchScreen.xib in Resources */,
 				1717A94A1B40216B008AAB15 /* Images.xcassets in Resources */,
